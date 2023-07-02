@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaskGen", "MaskGen.csproj", "{DD3B16C4-0777-4BBA-AB5D-582791171108}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD3B16C4-0777-4BBA-AB5D-582791171108}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD3B16C4-0777-4BBA-AB5D-582791171108}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD3B16C4-0777-4BBA-AB5D-582791171108}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD3B16C4-0777-4BBA-AB5D-582791171108}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3118660E-6576-42B9-9F6D-09F540A96D30}
+	EndGlobalSection
+EndGlobal
